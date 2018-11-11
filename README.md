@@ -23,6 +23,11 @@ $ npm install -g serve
 
 #### 4.具体实现
 
-  ##### 1. ctrl + '`' 打开控制台
-  ##### 2. 输入命令：npm start
+1. ctrl + ` 打开控制台
+
+2. 输入命令：npm init 初始化一个 package ,在 script 里输入 "start": "budo --live -p 3000"
+![示例]()
+  
+3. npm start启动服务
+
 
