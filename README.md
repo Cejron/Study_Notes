@@ -1,7 +1,8 @@
 # Study_Notes
 学习笔记
 
-#热加载（hot reload）服务
+热加载（hot reload）服务
+-
 
 1.安装Nodejs
 -
@@ -18,4 +19,5 @@ npm config set registry https://registry.npm.taobao.org/
 3.使用npm安装以下模块：
   -
 $ npm install -g budo 
+
 $ npm install -g serve
