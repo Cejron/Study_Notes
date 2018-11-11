@@ -16,8 +16,13 @@
 npm config set registry https://registry.npm.taobao.org/
 
 #### 3.使用npm安装以下模块：
-  -
+
 $ npm install -g budo 
 
 $ npm install -g serve
+
+#### 4.具体实现
+
+  ##### 1. ctrl + '`' 打开控制台
+  ##### 2. 输入命令：npm start
 
