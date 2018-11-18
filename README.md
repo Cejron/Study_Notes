@@ -7,7 +7,8 @@
 
   #### HTML
   
-  ul有序(数字前缀) ol无序(圆点前缀)
+    ul有序(数字前缀) ol无序(圆点前缀)
+    <input value="(input.text)">
   
   #### CSS
 
