@@ -16,7 +16,14 @@
   
   循环只有for+while
   
-    
+  var person={fname:"John",lname:"Doe",age:25};
+
+  for (x in person)
+  {
+    txt=txt + person[x];
+  }
+  
+  txt="JohnDoe25"
 
 ---
 
