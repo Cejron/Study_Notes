@@ -16,6 +16,8 @@
   
   循环只有for+while
   
+  do{循环体}while(条件)无论是否满足条件，先执行一次
+  
   var person={fname:"John",lname:"Doe",age:25};
 
   for (x in person)
