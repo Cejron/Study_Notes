@@ -16,7 +16,7 @@
 
   cd myapp
   
-  npm install
+  npm install (重要)
   
 5.在 Windows 中，通过如下命令启动此应用：
 
